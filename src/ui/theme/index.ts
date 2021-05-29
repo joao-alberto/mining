@@ -13,6 +13,4 @@ const theme = extendTheme({
   fonts,
 });
 
-console.log("Theme", theme);
-
 export { theme };
